@@ -1,0 +1,22 @@
+# Basic
+/ignore
+._*
+*.bak
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
